@@ -41,3 +41,11 @@ Style Transferred Image
 ![](/pic/comparison.jpg)
 
 ### Mask Style Transfer
+
+### 1.Local style transfer
+
+![](/pic/mask_1.jpg)
+
+### 2.Mixture style transfer
+
+![](/pic/mask_2.jpg)
