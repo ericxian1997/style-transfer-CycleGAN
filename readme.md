@@ -15,7 +15,7 @@ CycleGAN [[Source Code]](https://github.com/junyanz/CycleGAN "Code")  
 
 Original Photo
 
-![](/pic/color_original.jpg, width=510)
+![](/pic/color_original.jpg, =510x302)
 
 Style Transferred Image
 
