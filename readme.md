@@ -4,10 +4,10 @@ Style transfer using CycleGAN, and some adaptations
 
 CycleGAN [[Source Code]](https://github.com/junyanz/CycleGAN "Code")  
 
+### SYSU collection
+
 ![](/pic/sysu1.jpg)
 ![](/pic/sysu2.jpg)
-
-### CycleGAN
 
 
 
@@ -42,10 +42,10 @@ Style Transferred Image
 
 ### Mask Style Transfer
 
-### 1.Local style transfer
+#### 1.Local style transfer
 
 ![](/pic/mask_1.jpg)
 
-### 2.Mixture style transfer
+#### 2.Mixture style transfer
 
 ![](/pic/mask_2.jpg)
