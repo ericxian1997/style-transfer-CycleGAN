@@ -9,7 +9,9 @@ CycleGAN [[Source Code]](https://github.com/junyanz/CycleGAN "Code")  
 ![](/pic/sysu1.jpg)
 ![](/pic/sysu2.jpg)
 
+### Picasso's portrait style
 
+![](/pic/portrait.jpg)
 
 ### Color Histogram Matching
 
