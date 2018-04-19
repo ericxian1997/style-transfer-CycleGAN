@@ -46,7 +46,7 @@ Style Transferred Image
 
 #### 1.Local style transfer
 
-![](/pic/mask_1.jpg)
+![](mask_1.jpg)
 
 #### 2.Mixture style transfer
 
