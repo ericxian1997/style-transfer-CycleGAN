@@ -15,7 +15,7 @@ CycleGAN [[Source Code]](https://github.com/junyanz/CycleGAN "Code")  
 
 Original Photo
 
-![](/pic/color_original.jpg)
+![](/pic/color_original.jpg, width=510)
 
 Style Transferred Image
 
@@ -27,7 +27,7 @@ Style Transferred Image
 
 #### 2.Local color histogram matching
 
-![](/pic/color_matched12.jpg)
+![](/pic/color_matched2.jpg)
 
 #### 3.Linear color matching
 
