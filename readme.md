@@ -15,8 +15,6 @@ CycleGAN [[Source Code]](https://github.com/junyanz/CycleGAN "Code")  
 
 Original Photo
 
-![](/pic/color_original.jpg)
-
  <img src="/pic/color_original.jpg" width = "510" height = "302"/>
 
 Style Transferred Image
@@ -38,6 +36,8 @@ Style Transferred Image
 #### 4.Comparison
 
 ![](/pic/color_matched_all.jpg)
+
+
 ![](/pic/comparison.jpg)
 
 ### Mask Style Transfer
