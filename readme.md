@@ -2,7 +2,10 @@ CycleGAN Style Transfer
 ====
 Style transfer using CycleGAN, and some adaptations
 
-CycleGAN [[Source Code]](https://github.com/junyanz/CycleGAN "Code")  
+CycleGAN [[Source Code]](https://github.com/junyanz/CycleGAN "Code") 
+
+Trained models, transfer images, datasets:
+[[Downlown Here]](https://pan.baidu.com/s/1jpoZZcXHgG4m7dqJIdgVrw)
 
 ### SYSU collection
 
